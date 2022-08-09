@@ -13,3 +13,5 @@ And at last building various supervised algorithms for prediction.
 * pholium_launch_site_location : excuse me ! for wrong spelling of Folium, this file has eda using maps
 * PlotlyDash_for_Project : codes for using plotly dash, interactive executive dashboard
 * Prediction_model : it has all the tested models and their validation
+## Author 
+* Mohit
