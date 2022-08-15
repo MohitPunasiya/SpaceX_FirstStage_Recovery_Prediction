@@ -2,8 +2,15 @@
 ## Context
 I did this project as capstone project under IBM Data science series offered by coursera, SpaceX provides rocket launching facility at much lower prices than their market competition 
 Much of this is because of reusability of first stage of Falcon 9 Rocket. The successful landing of the first stage depends on factor such as payload mass, launch site, orbit its launched to , time of the year etc.This project aims to explore data driven  approches to predict the success of first stage landing (or reusabiility)
-This predictive model can be useful for decision making purposes. The methodology involved data collection using API, Cleaning and EDA , Visualisation using Folium and plotly Dash. 
-And at last building various supervised algorithms for prediction.
+This predictive model can be useful for decision making purposes. 
+## Methodology 
+* Collecting rocket launch data using SpaceX API and webscrapping from wiki pedia pages
+* Performing data wrangling : Missing data impurations and one hotbit encoding
+* Exploratory data analysis  by visualisation using plotly dash
+* Interactive visual analsis using Folium and Plotly Dash 
+* Training logistics regression, SVM, decision tree and Knn models and achieved best accuracy of 94 % by support vector machine (The model accuracy can be found in prediction_model notebook)
+
+
 ## File Structure
 * 1_DataCollection : this file has data collection methodology using API
 * webscrapping : this contains use of scrapper to extract data from html pages
