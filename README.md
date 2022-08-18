@@ -7,7 +7,8 @@ This predictive model can be useful in decision making for those who are on othe
 * Performing data wrangling : Missing data impurations and one hotbit encoding
 * Exploratory data analysis  by visualisation using plotly dash
 * Interactive visual analsis using Folium and Plotly Dash 
-* Training logistics regression, SVM, decision tree and Knn models and achieved best accuracy of 94 % by support vector machine (The model accuracy can be found in prediction_model notebook)
+* Training logistics regression, SVM, decision tree and Knn models and achieved best accuracy of 94 % by support vector machine while F1 score was F1 Score of support vector machine 0.96 and ROC_auc_score was  0.9615 (The model accuracy can be found in prediction_model notebook)
+
 
 
 ## File Structure
