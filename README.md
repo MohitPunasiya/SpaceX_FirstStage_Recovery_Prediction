@@ -17,8 +17,8 @@ This predictive model can be useful in decision making for those who are on othe
 * DataWrangling : This file contains codes regarding data wrangling, and some feature engineering
 * EDA_FeatureEngg : This File contains exploratory data analysis
 * EDA_SQL : This file has SQL queries and got some important information extraction
-* pholium_launch_site_location : excuse me ! for wrong spelling of Folium, this file has eda using maps
+* Folium_launch_site_location : excuse me ! for wrong spelling of Folium, this file has eda using maps
 * PlotlyDash_for_Project : codes for using plotly dash, interactive executive dashboard
-* Prediction_model : it has all the tested models and their validation
+* Prediction_model_1 : it has all the tested models and their validation
 ## Author 
 * Mohit
